@@ -1,0 +1,35 @@
+{
+  "level_model_R2_spatialCV": 0.58,
+  "level_R2_by_ion": {
+    "cl": 0.563,
+    "na": 0.471,
+    "ca": 0.52,
+    "mg": 0.528,
+    "so4": 0.469,
+    "alk": 0.632
+  },
+  "trend_model_R2_spatialCV": 0.05,
+  "chloride_median_pct_change_2050": 11.1,
+  "chloride_exceedance_now_pct": {
+    "120": 13.6,
+    "230": 8.1,
+    "860": 3.9
+  },
+  "chloride_exceedance_2050_pct": {
+    "120": 19.3,
+    "230": 12.1,
+    "860": 5.2
+  },
+  "top_level_drivers": [
+    "ion",
+    "lc_tree_5km",
+    "precip_mm",
+    "longitude",
+    "lc_bare_5km",
+    "pet_mm",
+    "night_lights_5km",
+    "elevation",
+    "temp_trend_c_yr",
+    "soil_ph"
+  ]
+}

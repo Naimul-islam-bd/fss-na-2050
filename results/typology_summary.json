@@ -1,0 +1,68 @@
+{
+  "na_cl": {
+    "median": 0.746,
+    "p25": 0.595,
+    "p75": 1.467,
+    "n": 2032
+  },
+  "ca_mg": {
+    "median": 3.536,
+    "p25": 2.5,
+    "p75": 4.985,
+    "n": 2501
+  },
+  "cl_so4": {
+    "median": 0.636,
+    "p25": 0.224,
+    "p75": 1.29,
+    "n": 2144
+  },
+  "halite_like_share_pct": 29.6,
+  "halite_reference": 0.649,
+  "typology": {
+    "k": 5,
+    "silhouette": 0.187,
+    "regimes": {
+      "Road-salt urban (rising Cl)": {
+        "n": 118,
+        "cl_level": 187.9,
+        "na_cl": 0.57,
+        "ca_mg": 2.81,
+        "slope_cl": 0.0095,
+        "slope_so4": -0.0088
+      },
+      "Dilute forested": {
+        "n": 371,
+        "cl_level": 3.4,
+        "na_cl": 0.78,
+        "ca_mg": 4.5,
+        "slope_cl": 0.0012,
+        "slope_so4": -0.0064
+      },
+      "Sulfate-declining": {
+        "n": 448,
+        "cl_level": 70.5,
+        "na_cl": 1.09,
+        "ca_mg": 2.57,
+        "slope_cl": 0.0046,
+        "slope_so4": -0.0013
+      },
+      "Carbonate weathering": {
+        "n": 982,
+        "cl_level": 20.2,
+        "na_cl": 0.64,
+        "ca_mg": 3.54,
+        "slope_cl": 0.005,
+        "slope_so4": -0.0058
+      },
+      "Arid evaporative": {
+        "n": 195,
+        "cl_level": 7.1,
+        "na_cl": 1.98,
+        "ca_mg": 3.25,
+        "slope_cl": 0.0122,
+        "slope_so4": 0.025
+      }
+    }
+  }
+}

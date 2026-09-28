@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or the derived data, please cite it as below."
+title: "Continental freshwater salinization forecast for the United States and Canada to 2050"
+authors:
+  - family-names: "Islam"
+    given-names: "Naimul"
+    orcid: "https://orcid.org/0009-0002-3442-8980"
+    affiliation: "Independent Researcher, Dhaka, Bangladesh"
+    email: "naimul.islam.bangladesh@gmail.com"
+keywords:
+  - salinization
+  - chloride
+  - road salt
+  - water quality
+  - machine learning
+  - CMIP6
+  - North America
+license: MIT
+repository-code: "https://github.com/Naimul-islam-bd/fss-na-2050"
+version: "1.0.0"
+date-released: "2026-09-29"
+abstract: >
+  A bi-national, continental analysis of freshwater salinization across the United
+  States and Canada. It harmonizes five long-term water-quality networks, quantifies
+  multi-decadal trends in six major ions, attributes their drivers with interpretable
+  machine learning under spatial cross-validation, fingerprints salt sources with ion
+  ratios, classifies stations into salinization regimes, and projects salinization and
+  regulatory-threshold exceedance to 2050 under trend, climate, and management scenarios.

@@ -1,0 +1,14 @@
+{
+  "n_stations": 2774,
+  "ws_ratio_median_all": 1.12,
+  "ws_ratio_median_cold_lat_ge40": 1.16,
+  "ws_ratio_median_warm_lat_lt40": 1.07,
+  "ws_ratio_median_urban": 1.13,
+  "corr_ratio_latitude": 0.129,
+  "corr_ratio_nightlights": 0.122,
+  "share_winter_enriched_pct": 68.4,
+  "share_winter_enriched_cold_pct": 73.9,
+  "winter_slope_median_cold": 0.0049,
+  "summer_slope_median_cold": 0.0054,
+  "n_trend_stations": 2468
+}

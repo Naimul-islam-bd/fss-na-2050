@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+lightgbm
+
+# Plotting and geospatial
+matplotlib
+pillow
+geopandas
+shapely
+pyproj
+
+# Data retrieval (pull step)
+dataretrieval
+requests
+pyyaml
+
+# Earth Engine and CMIP6 (covariate and climate steps)
+earthengine-api
+
+# Manuscript build
+python-docx

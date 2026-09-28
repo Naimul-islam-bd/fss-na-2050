@@ -1,0 +1,6 @@
+{
+  "LightGBM_both": 0.573,
+  "RandomForest_both": 0.492,
+  "LightGBM_500m_only": 0.565,
+  "LightGBM_5km_only": 0.553
+}

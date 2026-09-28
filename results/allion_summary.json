@@ -1,0 +1,53 @@
+{
+  "cl": {
+    "n": 3231,
+    "median_pct_change_2050": 11.1,
+    "pct_stations_increasing": 60.3,
+    "exceedance": {
+      "EPA chronic": {
+        "now": 8.1,
+        "2050": 12.1
+      }
+    }
+  },
+  "na": {
+    "n": 2383,
+    "median_pct_change_2050": 10.8,
+    "pct_stations_increasing": 62.2,
+    "exceedance": {
+      "aesthetic 200": {
+        "now": 6.7,
+        "2050": 11.0
+      }
+    }
+  },
+  "ca": {
+    "n": 2520,
+    "median_pct_change_2050": 3.0,
+    "pct_stations_increasing": 56.1,
+    "exceedance": {}
+  },
+  "mg": {
+    "n": 2557,
+    "median_pct_change_2050": 3.0,
+    "pct_stations_increasing": 55.9,
+    "exceedance": {}
+  },
+  "so4": {
+    "n": 2505,
+    "median_pct_change_2050": -9.9,
+    "pct_stations_increasing": 40.5,
+    "exceedance": {
+      "secondary MCL 250": {
+        "now": 15.5,
+        "2050": 16.7
+      }
+    }
+  },
+  "alk": {
+    "n": 970,
+    "median_pct_change_2050": -2.8,
+    "pct_stations_increasing": 44.5,
+    "exceedance": {}
+  }
+}

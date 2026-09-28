@@ -1,0 +1,32 @@
+{
+  "n_chloride_stations": 3231,
+  "n_rising_significant": 837,
+  "share_rising_pct": 25.9,
+  "policy_start": 2025,
+  "exceedance": {
+    "recent": {
+      "120": 13.6,
+      "230": 8.1,
+      "860": 3.9
+    },
+    "2050_trend": {
+      "120": 19.3,
+      "230": 12.1,
+      "860": 5.2
+    },
+    "2050_halved": {
+      "120": 17.3,
+      "230": 10.3,
+      "860": 4.6
+    },
+    "2050_stabilized": {
+      "120": 15.3,
+      "230": 9.1,
+      "860": 4.2
+    }
+  },
+  "avoided_at_230_pp": {
+    "halved_vs_trend": 1.8,
+    "stabilized_vs_trend": 3.0
+  }
+}
