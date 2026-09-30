@@ -69,7 +69,7 @@ Modeling and projection:
     code/run_scenarios.py            climate-scenario projection
     code/run_robustness.py           algorithm and buffer-scale robustness checks
 
-Added analyses (this study's novelty):
+Additional analyses (ion ratios, seasonality, management):
 
     code/joh_style.py                shared plotting style and file finder
     code/analysis_ratios_typology.py ion-ratio fingerprinting and regime typology
